@@ -1,0 +1,61 @@
+.burger-ingredients {
+  margin: .5rem auto;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.burger-ingredients p {
+  text-align: center;
+}
+
+.top-bun {
+  height: 100px;
+  width: 90%;
+  border-radius: 900px 900px 10px 10px;
+  background-color: #A27732;
+  border-top: 9px solid #906725;
+  margin: 1rem 0;
+}
+
+.bacon-layer {
+  width: 90%;
+  height: 10px;
+  background: brown;
+  margin: .3rem;
+}
+
+.cheese-layer {
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;
+  background: #E8EA02;
+  margin: .3rem;
+}
+
+.meet-layer {
+  width: 90%;
+  height: 25px;
+  border-radius: 5px;
+  background: #603102;
+  margin: .3rem;
+}
+
+.salad-layer {
+  width: 100%;
+  height: 20px;
+  border-radius: 10px;
+  background: #80D041;
+  margin: .3rem;
+}
+
+.bottom-bun {
+  background-color: #A27732;
+  border-radius: 10px 10px 50px 50px;
+  height: 60px;
+  width: 90%;
+  border-bottom: 11px solid #724D12;
+  margin: .5rem 0;
+}

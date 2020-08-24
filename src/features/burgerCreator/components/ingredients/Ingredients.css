@@ -1,0 +1,16 @@
+.ingredients {
+  margin: .2rem 0;
+}
+
+.ingredients p {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.ingredients button {
+  background: sienna;
+  padding: .2rem .5rem;
+  color: white;
+  margin-left: 5px;
+}
